@@ -16,8 +16,8 @@ Compreendi como visualizar dados e comunicar resultados através de gráficos. A
 
 - Formular hipóteses
 - Interpretar conceitos estatísticos de confiança e significância
-- Crie intervalos de confiança para suas amostras
-- Utilize Python para executar testes estatísticos
-- Aplique teste t e teste z para uma amostra
-- Compare dois grupos de amostras, independentes ou pareadas
-- Interprete o p-valor para concluir sobre sua hipótese
+- Criar intervalos de confiança para suas amostras
+- Utilizar o Python para executar testes estatísticos
+- Aplicar teste t e teste z para uma amostra
+- Comparar dois grupos de amostras, independentes ou pareadas
+- Interpretar o p-valor para concluir sobre sua hipótese
